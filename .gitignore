@@ -1,5 +1,5 @@
-./Data
-./Feature
+Data/
+Feature/
 Feature.csv
 Histogram_PCA.jpg
 Histogram_LLE.jpg
